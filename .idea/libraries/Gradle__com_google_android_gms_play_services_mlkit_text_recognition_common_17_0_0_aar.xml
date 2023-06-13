@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/e64679245e4ae5124c2f79130bc9e2de/transformed/play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/6c4d8c72899599e82a2af83e2ba2fa8f/transformed/play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/6c4d8c72899599e82a2af83e2ba2fa8f/transformed/play-services-mlkit-text-recognition-common-17.0.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/6c4d8c72899599e82a2af83e2ba2fa8f/transformed/play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c4d8c72899599e82a2af83e2ba2fa8f/transformed/play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6c4d8c72899599e82a2af83e2ba2fa8f/transformed/play-services-mlkit-text-recognition-common-17.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition-common/17.0.0/a5cb690a32e42822789e696992253fe571e82654/play-services-mlkit-text-recognition-common-17.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition-common/17.0.0/a5cb690a32e42822789e696992253fe571e82654/play-services-mlkit-text-recognition-common-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

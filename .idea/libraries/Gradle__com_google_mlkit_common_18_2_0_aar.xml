@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:common:18.2.0@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/dfb08ef5b101296ededf4f8cc1622f4a/transformed/common-18.2.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/49468805d460ab0896a34219bdf8d4af/transformed/common-18.2.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/49468805d460ab0896a34219bdf8d4af/transformed/common-18.2.0/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/49468805d460ab0896a34219bdf8d4af/transformed/common-18.2.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/49468805d460ab0896a34219bdf8d4af/transformed/common-18.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49468805d460ab0896a34219bdf8d4af/transformed/common-18.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.mlkit/common/18.2.0/de0c4f75cdc8000a016a7cd171f443690a6c30cd/common-18.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/common/18.2.0/de0c4f75cdc8000a016a7cd171f443690a6c30cd/common-18.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
